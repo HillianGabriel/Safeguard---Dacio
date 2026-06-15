@@ -1,10 +1,8 @@
-# 🛡️ SafeGuard
+# SafeGuard
 
 **Plataforma de Educação em Cibersegurança**
-
 SafeGuard é uma landing page institucional voltada para a conscientização e o ensino de práticas de cibersegurança para o público geral, abordando desde fundamentos de proteção digital até tópicos voltados a desenvolvedores.
-
-🔗 **Acesse o projeto:** [hilliangabriel.github.io/SafeGuard](https://hilliangabriel.github.io/SafeGuard/) <!-- ajuste o link após publicar este repositório -->
+🔗 **Acesse o projeto:** [hilliangabriel.github.io/SafeGuard](https://hilliangabriel.github.io/SafeGuard/)
 
 ---
 
